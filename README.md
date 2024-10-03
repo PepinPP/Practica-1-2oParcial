@@ -16,3 +16,7 @@ Gutierrez Gayosso Jose Alejandro 3W
 En <materia> has obtenido <calificación> y asíi cada una de las que correspondan
 ![image](https://github.com/user-attachments/assets/1fbbcc5d-11ed-45b5-a384-394f0d7f42b4)
 ![image](https://github.com/user-attachments/assets/7c02578d-1f76-4bdb-aa61-be60b536e51f)
+
+5.- Haz uno que pregunte los numero triunfadores de la lotería , y llene una lista que se va a mostrar en pantalla de menor a mayor.
+![image](https://github.com/user-attachments/assets/824b359a-20b5-49c0-8bad-ec1ef5369944)
+![image](https://github.com/user-attachments/assets/b9894664-247a-4c0a-9525-f8a10129de19)
