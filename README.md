@@ -5,3 +5,14 @@ Gutierrez Gayosso Jose Alejandro 3W
 ![image](https://github.com/user-attachments/assets/bd63bf78-173e-4a34-83fd-641a2bda8835)
 
 2.- Almacenar las materias de 1 curso (ejemplo Pensamiento matemático, español, Inglés, química, civismo y francés) en una lista luego despliegue en pantalla
+![image](https://github.com/user-attachments/assets/acc9e5e9-9e4f-44d4-aa22-0d00b0de4429)
+![image](https://github.com/user-attachments/assets/628dc65b-f9fd-4619-b131-68c5262cde3b)
+
+3.- De esa misma lista que aparezca un mensaje Estoy cursando <materia>, donde <materia> es cada una de las de la lista.
+![image](https://github.com/user-attachments/assets/a34f533f-9330-4608-a39f-55836ebf2d29)
+![image](https://github.com/user-attachments/assets/538cf449-1daf-4a80-b3dd-472924e6ed61)
+
+4.- De igual forma con la lista que tenemos creada que pida al usuario la calificación de cada materia lo despliegue en pantalla y que muestre:
+En <materia> has obtenido <calificación> y asíi cada una de las que correspondan
+![image](https://github.com/user-attachments/assets/1fbbcc5d-11ed-45b5-a384-394f0d7f42b4)
+![image](https://github.com/user-attachments/assets/7c02578d-1f76-4bdb-aa61-be60b536e51f)
